@@ -2,8 +2,7 @@ By integrating SQL and Python for data analysis, this project aims to provide a 
 facilitating data-driven decisions to enhance business performance.
 
  **Project Objectives**
-Understand key customer buying patterns,
-Identify top-selling products and categories,
+Understand key customer buying patterns,	Identify top-selling products and categories
 Track sales performance over time,
 Analyze revenue trends and returns,
 Extract insights to support ecommerce strategy.
